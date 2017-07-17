@@ -1,2 +1,5 @@
 # dailypush_replugin
-使用了replugin插件化框架
+使用了replugin插件化框架，并用kotlin开发
+测试直接编译主项目即可，插件项目在PluginProject文件夹，调试可忽略密匙文件夹的密匙的使用，或自定义
+本人将不定期维护
+QQ1056758714
